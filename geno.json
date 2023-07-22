@@ -3,11 +3,9 @@
   "templates": [
     {
       "name": "Geno",
-      "sources": [
-        "https://raw.githubusercontent.com/TransPlace-Devs/rplace-tallyhall/production/tallyhall.png"
-      ],
-      "x": 577,
-      "y": 588
+      "sources": ["https://genobear.github.io/pixil-frame-0%20(2).png"],
+      "x": -319,
+      "y": -267
     }
   ],
   "whitelist": [],
